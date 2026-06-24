@@ -1,0 +1,27 @@
+{
+  "name": "My Custom Theme",
+  "description": "A sleek custom theme for the Revenge client.",
+  "authors": [
+    {
+      "name": "YourName",
+      "id": "YourDiscordID"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#1e1e2e", "#ffffff"],
+    "BACKGROUND_SECONDARY": ["#181825", "#f2f2f2"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#cba6f7", "#8839ef"],
+    "TEXT_NORMAL": ["#cdd6f4", "#4c4f69"],
+    "TEXT_MUTED": ["#7f849c", "#bcc0cc"]
+  },
+  "rawColors": {
+    "BRAND_500": "#cba6f7",
+    "PRIMARY_600": "#11111b"
+  },
+  "background": {
+    "url": "https://example.com",
+    "blur": 0,
+    "alpha": 1.0
+  }
+}
